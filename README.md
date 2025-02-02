@@ -54,3 +54,9 @@ The repository is organized as follows:
 ## How to contribute
 
 If you are interested in contributing to this project, you can do so by submitting a pull request to the repository. You can also join the discussion on the issues page or start a new discussion on the discussions page.
+
+Before contributing, please read the [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) files to understand the guidelines for contributing to this project.
+
+## Links and References
+
+- [Dark Energy Consumption and Mass-Energy Equivalence](papers/Dark%20Energy%20Consumption%20and%20Mass-Energy%20Equivalence.md)
